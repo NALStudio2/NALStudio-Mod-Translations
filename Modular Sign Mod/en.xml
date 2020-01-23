@@ -1,0 +1,188 @@
+<NALStudio>
+  <Sign_Mod>
+    <Info_Wall>
+	  <name>Wall Info Sign</name>
+	  <description>An info sign on the wall.</description>
+	</Info_Wall>
+	<Gate_Sign_S_1>
+	  <name>Gate Sign 1</name>
+	  <description>Gate symbol (1/2) of a modular gate sign. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_S_1>
+	<Gate_Sign_S_2>
+	  <name>Gate Sign 2</name>
+	  <description>Gate symbol (2/2) of a modular gate sign. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_S_2>
+	<Gates_Sign_Extender_1>
+	  <name>Gates (Sign Extender)</name>
+	  <description>Letter S to extend gate sign 1or 2. Combines them to make the word "gates". The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gates_Sign_Extender_1>
+	<Gate_Sign_Start>
+	  <name>Gate Sign (Start/End)</name>
+	  <description>Start and end of a modular gate sign. Rotate to get the end piece.</description>
+	</Gate_Sign_Start>
+	<Gate_Sign_Blank>
+	  <name>Gate Sign (Blank)</name>
+	  <description>A blank piece of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_Blank>
+	<Gate_Sign_->
+	  <name>Gate Sign (-)</name>
+	  <description>Symbol - of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_->
+	<Gate_Sign_A>
+	  <name>Gate Sign (A)</name>
+	  <description>Letter A of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_A>
+	<Gate_Sign_B>
+	  <name>Gate Sign (B)</name>
+	  <description>Letter B of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_B>
+	<Gate_Sign_C>
+	  <name>Gate Sign (C)</name>
+	  <description>Letter C of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_C>
+	<Gate_Sign_D>
+	  <name>Gate Sign (D)</name>
+	  <description>Letter D of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_D>
+	<Gate_Sign_E>
+	  <name>Gate Sign (E)</name>
+	  <description>Letter E of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_E>
+	<Gate_Sign_F>
+	  <name>Gate Sign (F)</name>
+	  <description>Letter F of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_F>
+	<Gate_Sign_G>
+	  <name>Gate Sign (G)</name>
+	  <description>Letter G of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_G>
+	<Gate_Sign_H>
+	  <name>Gate Sign (H)</name>
+	  <description>Letter H of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_H>
+	<Gate_Sign_I>
+	  <name>Gate Sign (I)</name>
+	  <description>Letter I of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_I>
+	<Gate_Sign_J>
+	  <name>Gate Sign (J)</name>
+	  <description>Letter J of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_J>
+	<Gate_Sign_K>
+	  <name>Gate Sign (K)</name>
+	  <description>Letter K of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_K>
+	<Gate_Sign_L>
+	  <name>Gate Sign (L)</name>
+	  <description>Letter L of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_L>
+	<Gate_Sign_M>
+	  <name>Gate Sign (M)</name>
+	  <description>Letter M of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_M>
+	<Gate_Sign_N>
+	  <name>Gate Sign (N)</name>
+	  <description>Letter N of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_N>
+	<Gate_Sign_O>
+	  <name>Gate Sign (O)</name>
+	  <description>Letter O of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_O>
+	<Gate_Sign_P>
+	  <name>Gate Sign (P)</name>
+	  <description>Letter P of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_P>
+	<Gate_Sign_Q>
+	  <name>Gate Sign (Q)</name>
+	  <description>Letter Q of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_Q>
+	<Gate_Sign_R>
+	  <name>Gate Sign (R)</name>
+	  <description>Letter R of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_R>
+	<Gate_Sign_S>
+	  <name>Gate Sign (S)</name>
+	  <description>Letter S of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_S>
+	<Gate_Sign_T>
+	  <name>Gate Sign (T)</name>
+	  <description>Letter T of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_T>
+	<Gate_Sign_U>
+	  <name>Gate Sign (U)</name>
+	  <description>Letter U of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_U>
+	<Gate_Sign_V>
+	  <name>Gate Sign (V)</name>
+	  <description>Letter V of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_V>
+	<Gate_Sign_W>
+	  <name>Gate Sign (W)</name>
+	  <description>Letter W of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_W>
+	<Gate_Sign_X>
+	  <name>Gate Sign (X)</name>
+	  <description>Letter X of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_X>
+	<Gate_Sign_Y>
+	  <name>Gate Sign (Y)</name>
+	  <description>Letter Y of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_Y>
+	<Gate_Sign_Z>
+	  <name>Gate Sign (Z)</name>
+	  <description>Letter R of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_Z>
+	<Gate_Sign_Å>
+	  <name>Gate Sign (Å)</name>
+	  <description>Letter Å of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_Å>
+	<Gate_Sign_Ä>
+	  <name>Gate Sign (Ä)</name>
+	  <description>Letter Ä of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_Ä>
+	<Gate_Sign_Ö>
+	  <name>Gate Sign (Ö)</name>
+	  <description>Letter Ö of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_Ö>
+	<Gate_Sign_1>
+	  <name>Gate Sign (1)</name>
+	  <description>Number 1 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_1>
+	<Gate_Sign_2>
+	  <name>Gate Sign (2)</name>
+	  <description>Number 2 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_2>
+	<Gate_Sign_3>
+	  <name>Gate Sign (3)</name>
+	  <description>Number 3 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_3>
+	<Gate_Sign_4>
+	  <name>Gate Sign (4)</name>
+	  <description>Number 4 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_4>
+	<Gate_Sign_5>
+	  <name>Gate Sign (5)</name>
+	  <description>Number 5 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_5>
+	<Gate_Sign_6>
+	  <name>Gate Sign (6)</name>
+	  <description>Number 6 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_6>
+	<Gate_Sign_7>
+	  <name>Gate Sign (7)</name>
+	  <description>Number 7 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_7>
+	<Gate_Sign_8>
+	  <name>Gate Sign (8)</name>
+	  <description>Number 8 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_8>
+	<Gate_Sign_9>
+	  <name>Gate Sign (9)</name>
+	  <description>Number 9 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_9>
+	<Gate_Sign_0>
+	  <name>Gate Sign (0)</name>
+	  <description>Number 0 of a modular gate sign. Rotate to get other pieces. The Dismantle tool gets confused a little, but manual dismantle should work.</description>
+	</Gate_Sign_0>
+   </Sign_Mod>
+</NALStudio>

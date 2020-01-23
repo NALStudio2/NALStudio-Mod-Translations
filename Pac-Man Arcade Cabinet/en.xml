@@ -1,0 +1,8 @@
+<NALStudio>
+  <ArcadeGameUtilities>
+    <Pac-Man>
+	  <name>Pac-Man Arcade Cabinet</name>
+	  <description>The classical Pac-Man Arcade Cabinet.</description>
+	</Pac-Man>
+   </ArcadeGameUtilities>
+</NALStudio>

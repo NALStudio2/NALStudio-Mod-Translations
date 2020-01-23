@@ -1,0 +1,20 @@
+<NALStudio>
+  <Sign_Mod>
+    <Info_Wall>
+	  <name>Wall Info Sign</name>
+	  <description>An info sign on the wall.</description>
+	</Info_Wall>
+    <NoParking1>
+	  <name>No Parking Sign 1</name>
+	  <description>A no Parking Road Sign</description>
+	</NoParking1>
+	<NoParking2>
+	  <name>No Parking Sign 3</name>
+	  <description>A no Parking Road Sign</description>
+	</NoParking2>
+	<NoParking3>
+	  <name>No Parking Sign 3</name>
+	  <description>A no Parking Road Sign</description>
+	</NoParking3>
+   </Sign_Mod>
+</NALStudio>

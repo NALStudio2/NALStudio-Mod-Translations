@@ -1,0 +1,28 @@
+<nalXcal-mf>
+    <vehicles>
+        <global-veh-desc>A vehicle that you can place down!</global-veh-desc>
+        <aBus>Apron Bus</aBus>
+        <bus>Bus</bus>
+        <car>Car</car>
+        <deliv>Delivery Truck</deliv>
+        <fire>Fire Truck</fire>
+        <fuel>Fuel Truck</fuel>
+        <garbage>Garbage Truck</garbage>
+        <police>Police Car</police>
+        <suv>SUV Car</suv>
+        <taxi>Taxi</taxi>
+        <tow>Tow Truck</tow>
+        <truck>Truck</truck>
+        <planes>A plane.</planes>
+    </vehicles>
+    <textures>
+        <gravel>
+            <n>Gravel</n>
+            <desc>A tile of gravel you can place near gates and roads for a nice texture and finish</desc>
+        </gravel>
+        <tarmac>
+            <n>Tarmac</n>
+            <desc>A tile of tarmac you can place near gates and roads for a nice texture and finish</desc>
+        </tarmac>
+    </textures>   
+</nalXcal-mf>

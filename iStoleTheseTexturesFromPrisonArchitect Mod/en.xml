@@ -1,0 +1,16 @@
+<NALStudio>
+  <stolenTextures>
+    <FancyFloor>
+	  <name>Fancy Floor</name>
+	  <description>Fancy Floor from Prison Architect</description>
+	</FancyFloor>
+    <MarbleFloor>
+	  <name>Marble Floor</name>
+	  <description>Marble Floor from Prison Architect</description>
+	</MarbleFloor>
+    <PlayMatFloor>
+	  <name>Play Mat Floor</name>
+	  <description>Play Mat Floor from Prison Architect</description>
+	</PlayMatFloor>
+   </stolenTextures>
+</NALStudio>

@@ -1,0 +1,12 @@
+<NALStudio>
+  <GreenScreen>
+    <Floor>
+	  <name>Green Screen Floor</name>
+	  <description>A green floor that looks like it's made of some sort of goo. For all your image processing needs!</description>
+	</Floor>
+    <Object>
+	  <name>Green Screen Object</name>
+	  <description>A green object that looks like it's made of some sort of goo. For all your image processing needs!</description>
+	</Object>
+   </GreenScreen>
+</NALStudio>

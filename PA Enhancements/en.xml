@@ -1,0 +1,28 @@
+<NALStudio>
+  <PA_Enhancements>
+    <PA_Amplifier_UHD>
+	  <name>PA Amplifier UHD</name>
+	  <description>Public Address Systems provide announcements, boarding calls, and last-minute information. Helps prevent missed flights, though too many announcements may annoy passengers a bit too! This UHD version allows for even more speakers &amp; gates, and has mediocre sound quality.</description>
+	</PA_Amplifier_UHD>
+	<PA_Amplifier_4K>
+	  <name>PA Amplifier 4K</name>
+	  <description>Public Address Systems provide announcements, boarding calls, and last-minute information. Helps prevent missed flights, though too many announcements may annoy passengers a bit too! This 4K version allows for more than even more speakers &amp; gates, and has a high sound quality.</description>
+	</PA_Amplifier_4K>
+	<PA_Speaker_Ceiling>
+	  <name>PA Speaker Ceiling</name>
+	  <description>I cannot take any credit for this placeable... The textures were in the game files and I just made them into working versions.</description>
+	</PA_Speaker_Ceiling>
+	<PA_Speaker_Ceiling_2W>
+	  <name>PA Speaker Ceiling 2-Way</name>
+	  <description>Modded texture from the game files. (I know the textures look bad. I'm bad at drawing.)</description>
+	</PA_Speaker_Ceiling_2W>
+	<PA_Speaker_Invisible>
+	  <name>Invisible PA Speaker</name>
+	  <description>PA Speaker more transparent than ZBLAN. (Void of warranty if operated invisible.)</description>
+	</PA_Speaker_Invisible>
+	<PA_Speaker_Invisible_2W>
+	  <name>Invisible PA Speaker 2-Way</name>
+	  <description>PA Speaker more transparent than ZBLAN. Now bi-directional! (Void of warranty if operated invisible.)</description>
+	</PA_Speaker_Invisible_2W>
+	  </PA_Enhancements>
+</NALStudio>
